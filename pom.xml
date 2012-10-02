@@ -27,4 +27,8 @@
       </plugins>
     </pluginManagement>
   </build>
+  <scm>
+    <connection>scm:git:git@github.com:ziy/hw1-archetype.git</connection>
+    <developerConnection>scm:git:git@github.com:ziy/hw1-archetype.git</developerConnection>
+  </scm>
 </project>
