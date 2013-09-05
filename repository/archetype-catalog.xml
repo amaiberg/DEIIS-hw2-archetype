@@ -4,6 +4,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <archetypes>
     <archetype>
+      <groupId>edu.cmu.lti.11791.f13.hw1</groupId>
+      <artifactId>hw1-archetype</artifactId>
+      <version>0.0.4-SNAPSHOT</version>
+      <description>hw1</description>
+    </archetype>
+    <archetype>
       <groupId>edu.cmu.lti.11791.f12.hw1</groupId>
       <artifactId>hw1-archetype</artifactId>
       <version>0.0.3</version>
